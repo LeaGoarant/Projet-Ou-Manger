@@ -10,6 +10,9 @@ h2{
     margin-top: 10px;
     margin-bottom: 20px;
 }
+h5{
+    color: black;
+}
 body{
     background-color: #F4F6F7;
     font-family: 'Montserrat', sans-serif;
